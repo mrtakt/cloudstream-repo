@@ -2,7 +2,7 @@
     "name": "NSFW Provider",
     "description": "Cloudstream Plugin Repository Fix Error Load Plugin",
     "manifestVersion": 1,
-    "pluginLists": [
+    "pluginLists": 
       {
         "iconUrl": "https://www.google.com/s2/favicons?domain=example.com&sz=%size%",
         "apiVersion": 1,
@@ -291,5 +291,4 @@
         "url": "https://raw.githubusercontent.com/Jacekun/cs3xxx-repo/builds/XvideosProvider.cs3",
         "name": "XvideosProvider"
     }
-    ]
 }
